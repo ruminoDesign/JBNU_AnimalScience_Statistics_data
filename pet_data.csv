@@ -1,0 +1,11 @@
+pet_id,age,weight,breed,feed_intake,weight_gain
+Pet001,1,5,Small,2.5,1.0
+Pet002,2,12,Small,3.0,1.2
+Pet003,3,18,Small,2.8,1.1
+Pet004,4,22,Medium,3.5,1.5
+Pet005,5,25,Medium,3.2,1.3
+Pet006,6,28,Medium,3.8,1.6
+Pet007,7,30,Large,3.1,1.2
+Pet008,8,31,Large,3.6,1.5
+Pet009,9,31,Large,2.9,1.1
+Pet010,10,32,Large,3.4,1.4
